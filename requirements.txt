@@ -1,0 +1,9 @@
+openai-whisper
+torch
+moviepy
+pydub
+dbpunctuator
+transformers
+huggingface_hub
+hf_xet
+imageio-ffmpeg
